@@ -1,0 +1,7 @@
+datasets/*
+.vscode/*
+datasets_crawled.tar.gz
+code/train/.ipynb_checkpoints/
+*.h5
+*.npy
+code/evaluate/.ipynb_checkpoints/
